@@ -3,7 +3,7 @@
 Hi there 👋, this is Bowen Tan. I am currently a PhD student in Computer Science, mainly focusing on algorithms and machine learning.
 
 - 🔭 Currently working on [glob-linters](https://github.com/bowentan/glob-linters) motivated by my interest. If you are also interested, you are welcomed for contributions!
-- 🌱 Currently learning Go and Julia.
+- 🌱 Currently learning Julia and Rust.
 - 📫 Reach me: bowentan78@gmail.com or [LinkedIn](www.linkedin.com/in/bowen-tan-44623b99)
 
 <!--

@@ -4,11 +4,46 @@
 - 🔥 Enthusiastic about open source projects.
 - 📫 Reach me: bowentan78@gmail.com or [LinkedIn](https://www.linkedin.com/in/bowentan78)
 
-![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowentan&show_icons=true&rank_icon=github&exclude_repo=test-workflow)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=bowentan&show_icons=true&rank_icon=github&exclude_repo=test-workflow&show=prs_merged_percentage&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=bowentan&show_icons=true&rank_icon=github&exclude_repo=test-workflow&show=prs_merged_percentage"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=bowentan&show_icons=true&rank_icon=github&exclude_repo=test-workflow&show=prs_merged_percentage&theme=tokyonight" />
+  </picture>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowentan&layout=compact&exclude_repo=test-workflow)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bowentan&layout=compact&exclude_repo=test-workflow&langs_count=10&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bowentan&layout=compact&exclude_repo=test-workflow&langs_count=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowentan&layout=compact&exclude_repo=test-workflow&langs_count=10&theme=tokyonight" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=bowentan&layout=compact&langs_count=10&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=bowentan&layout=compact&langs_count=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bowentan&layout=compact&langs_count=10&theme=tokyonight" />
+  </picture>
+</p>
 
-[![Bowen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bowentan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bowentan)

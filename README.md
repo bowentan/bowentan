@@ -2,7 +2,7 @@
 
 - 🌱 Practicing my coding always, currently learning Golang and Rust.
 - 🔥 Enthusiastic about open source projects.
-- 📫 Reach me: bowentan78@gmail.com or [LinkedIn](www.linkedin.com/in/bowentan78)
+- 📫 Reach me: bowentan78@gmail.com or [LinkedIn](https://www.linkedin.com/in/bowentan78)
 
 ![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowentan&show_icons=true&rank_icon=github&exclude_repo=test-workflow)
 

@@ -1,8 +1,10 @@
 # Hi there 👋
 
-- 🌱 Practicing my coding always, currently learning Golang and Rust.
+- 🔍 Looking for a position in quantitative researcher or developer, or software developer/devops.
+- 🌱 Practicing my programming always, currently learning Golang and Rust.
 - 🔥 Enthusiastic about open source projects.
 - 📫 Reach me: bowentan78@gmail.com or [LinkedIn](https://www.linkedin.com/in/bowentan78)
+- ℹ️ More about me: [My Homepage](https://bowentan.github.io)
 
 <p align="center">
   <picture>
